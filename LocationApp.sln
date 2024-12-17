@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationApp.Domain", "LocationApp.Domain\LocationApp.Domain.csproj", "{661E68F2-F24B-410F-866B-57A86A6C241A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocationApp.Domain", "LocationApp.Domain\LocationApp.Domain.csproj", "{661E68F2-F24B-410F-866B-57A86A6C241A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationApp.Infrastructure.EntityFramework", "LocationApp.Infrastructure.EntityFramework\LocationApp.Infrastructure.EntityFramework.csproj", "{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocationApp.Infrastructure.EntityFramework", "LocationApp.Infrastructure.EntityFramework\LocationApp.Infrastructure.EntityFramework.csproj", "{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationApp.Infrastructure", "LocationApp.Infrastructure\LocationApp.Infrastructure.csproj", "{442EB438-952F-465A-AE69-31E1D758DE8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocationApp.Infrastructure", "LocationApp.Infrastructure\LocationApp.Infrastructure.csproj", "{442EB438-952F-465A-AE69-31E1D758DE8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationApp.Application", "LocationApp.Application\LocationApp.Application.csproj", "{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocationApp.Application", "LocationApp.Application\LocationApp.Application.csproj", "{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{1BF3FF84-FCE5-4285-9A7D-15AB99AB04FD}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{525770C6-2309-4547-8DE0-AAF1436DB983}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{300EA225-3C2D-4596-B99F-EECDF6DA2A22}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{421BE522-62B7-4021-9C86-AFBD78499AD1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{787EAD2D-6CF7-4483-8473-775169F807A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationApp.API", "Clients\Backend\LocationApp.API\LocationApp.API.csproj", "{1E40ABF2-94A8-42BD-8B8D-B957297BEDFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,13 +39,17 @@ Global
 		{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E40ABF2-94A8-42BD-8B8D-B957297BEDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E40ABF2-94A8-42BD-8B8D-B957297BEDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E40ABF2-94A8-42BD-8B8D-B957297BEDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E40ABF2-94A8-42BD-8B8D-B957297BEDFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{300EA225-3C2D-4596-B99F-EECDF6DA2A22} = {1BF3FF84-FCE5-4285-9A7D-15AB99AB04FD}
-		{787EAD2D-6CF7-4483-8473-775169F807A5} = {1BF3FF84-FCE5-4285-9A7D-15AB99AB04FD}
+		{421BE522-62B7-4021-9C86-AFBD78499AD1} = {525770C6-2309-4547-8DE0-AAF1436DB983}
+		{1E40ABF2-94A8-42BD-8B8D-B957297BEDFF} = {421BE522-62B7-4021-9C86-AFBD78499AD1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5C7ABE83-28C4-4BB7-B0B7-5BB008EA10CB}
