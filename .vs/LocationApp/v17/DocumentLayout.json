@@ -3,56 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\LocationApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{442EB438-952F-465A-AE69-31E1D758DE8D}|LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.infrastructure\\locationapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{442EB438-952F-465A-AE69-31E1D758DE8D}|LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj|solutionrelative:locationapp.infrastructure\\locationapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.application\\locationapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|solutionrelative:locationapp.application\\locationapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.infrastructure.entityframework\\locationapp.infrastructure.entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|solutionrelative:locationapp.infrastructure.entityframework\\locationapp.infrastructure.entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.application\\ioc\\servicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|solutionrelative:locationapp.application\\ioc\\servicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.infrastructure.entityframework\\ioc\\servicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|solutionrelative:locationapp.infrastructure.entityframework\\ioc\\servicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E40ABF2-94A8-42BD-8B8D-B957297BEDFF}|Clients\\Backend\\LocationApp.API\\LocationApp.API.csproj|c:\\users\\hp\\source\\repos\\locationapp\\clients\\backend\\locationapp.api\\controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E40ABF2-94A8-42BD-8B8D-B957297BEDFF}|Clients\\Backend\\LocationApp.API\\LocationApp.API.csproj|solutionrelative:clients\\backend\\locationapp.api\\controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.infrastructure.entityframework\\repositories\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|solutionrelative:locationapp.infrastructure.entityframework\\repositories\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.application\\places\\placesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|solutionrelative:locationapp.application\\places\\placesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.infrastructure.entityframework\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|solutionrelative:locationapp.infrastructure.entityframework\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.application\\places\\dtos\\addplacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|solutionrelative:locationapp.application\\places\\dtos\\addplacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.application\\places\\mappings\\placesmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|solutionrelative:locationapp.application\\places\\mappings\\placesmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E40ABF2-94A8-42BD-8B8D-B957297BEDFF}|Clients\\Backend\\LocationApp.API\\LocationApp.API.csproj|c:\\users\\hp\\source\\repos\\locationapp\\clients\\backend\\locationapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E40ABF2-94A8-42BD-8B8D-B957297BEDFF}|Clients\\Backend\\LocationApp.API\\LocationApp.API.csproj|solutionrelative:clients\\backend\\locationapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.infrastructure.entityframework\\repositories\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|solutionrelative:locationapp.infrastructure.entityframework\\repositories\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.infrastructure.entityframework\\ioc\\servicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|solutionrelative:locationapp.infrastructure.entityframework\\ioc\\servicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.infrastructure.entityframework\\locationappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|solutionrelative:locationapp.infrastructure.entityframework\\locationappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{442EB438-952F-465A-AE69-31E1D758DE8D}|LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.infrastructure\\repositories\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{442EB438-952F-465A-AE69-31E1D758DE8D}|LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj|solutionrelative:locationapp.infrastructure\\repositories\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.application\\places\\dtos\\placedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|solutionrelative:locationapp.application\\places\\dtos\\placedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{442EB438-952F-465A-AE69-31E1D758DE8D}|LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.infrastructure\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{442EB438-952F-465A-AE69-31E1D758DE8D}|LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj|solutionrelative:locationapp.infrastructure\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B0DD125-D2BE-48F7-9F12-BE94A86A2E83}|LocationApp.Shared\\LocationApp.Shared.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.shared\\functional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0DD125-D2BE-48F7-9F12-BE94A86A2E83}|LocationApp.Shared\\LocationApp.Shared.csproj|solutionrelative:locationapp.shared\\functional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0DD125-D2BE-48F7-9F12-BE94A86A2E83}|LocationApp.Shared\\LocationApp.Shared.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.shared\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0DD125-D2BE-48F7-9F12-BE94A86A2E83}|LocationApp.Shared\\LocationApp.Shared.csproj|solutionrelative:locationapp.shared\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.application\\places\\iplacesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|solutionrelative:locationapp.application\\places\\iplacesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{661E68F2-F24B-410F-866B-57A86A6C241A}|LocationApp.Domain\\LocationApp.Domain.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.domain\\entities\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{661E68F2-F24B-410F-866B-57A86A6C241A}|LocationApp.Domain\\LocationApp.Domain.csproj|solutionrelative:locationapp.domain\\entities\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661E68F2-F24B-410F-866B-57A86A6C241A}|LocationApp.Domain\\LocationApp.Domain.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.domain\\base\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661E68F2-F24B-410F-866B-57A86A6C241A}|LocationApp.Domain\\LocationApp.Domain.csproj|solutionrelative:locationapp.domain\\base\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.infrastructure.entityframework\\locationapp.infrastructure.entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|solutionrelative:locationapp.infrastructure.entityframework\\locationapp.infrastructure.entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.infrastructure.entityframework\\migrations\\20241216202617_places-entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C743A1F5-364E-459C-8E61-2BFFF0B8B18C}|LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj|solutionrelative:locationapp.infrastructure.entityframework\\migrations\\20241216202617_places-entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{442EB438-952F-465A-AE69-31E1D758DE8D}|LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.infrastructure\\locationapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{442EB438-952F-465A-AE69-31E1D758DE8D}|LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj|solutionrelative:locationapp.infrastructure\\locationapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,160 +98,224 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServiceCollectionExtention.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Ioc\\ServiceCollectionExtention.cs",
-              "RelativeDocumentMoniker": "LocationApp.Application\\Ioc\\ServiceCollectionExtention.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Ioc\\ServiceCollectionExtention.cs",
-              "RelativeToolTip": "LocationApp.Application\\Ioc\\ServiceCollectionExtention.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAcAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\Clients\\Backend\\LocationApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "Clients\\Backend\\LocationApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\Clients\\Backend\\LocationApp.API\\Program.cs",
+              "RelativeToolTip": "Clients\\Backend\\LocationApp.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T22:12:12.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LocationApp.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\LocationApp.Application.csproj",
-              "RelativeDocumentMoniker": "LocationApp.Application\\LocationApp.Application.csproj",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\LocationApp.Application.csproj",
-              "RelativeToolTip": "LocationApp.Application\\LocationApp.Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T22:11:42.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LocationApp.Infrastructure.EntityFramework.csproj",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj",
-              "RelativeDocumentMoniker": "LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj",
-              "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T20:15:04.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LocationApp.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj",
-              "RelativeToolTip": "LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T21:12:35.233Z",
+              "WhenOpened": "2024-12-17T17:26:25.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServiceCollectionExtention.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\Ioc\\ServiceCollectionExtention.cs",
-              "RelativeDocumentMoniker": "LocationApp.Infrastructure.EntityFramework\\Ioc\\ServiceCollectionExtention.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\Ioc\\ServiceCollectionExtention.cs",
-              "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\Ioc\\ServiceCollectionExtention.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABNAAAA",
+              "DocumentIndex": 1,
+              "Title": "PlacesController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\Clients\\Backend\\LocationApp.API\\Controllers\\PlacesController.cs",
+              "RelativeDocumentMoniker": "Clients\\Backend\\LocationApp.API\\Controllers\\PlacesController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\Clients\\Backend\\LocationApp.API\\Controllers\\PlacesController.cs",
+              "RelativeToolTip": "Clients\\Backend\\LocationApp.API\\Controllers\\PlacesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T22:08:25.885Z"
+              "WhenOpened": "2024-12-17T17:34:38.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PlaceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\Repositories\\PlaceRepository.cs",
-              "RelativeDocumentMoniker": "LocationApp.Infrastructure.EntityFramework\\Repositories\\PlaceRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\Repositories\\PlaceRepository.cs",
-              "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\Repositories\\PlaceRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Title": "PlacesMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Places\\Mappings\\PlacesMappingProfile.cs",
+              "RelativeDocumentMoniker": "LocationApp.Application\\Places\\Mappings\\PlacesMappingProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Places\\Mappings\\PlacesMappingProfile.cs",
+              "RelativeToolTip": "LocationApp.Application\\Places\\Mappings\\PlacesMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:53:38.051Z"
+              "WhenOpened": "2024-12-17T16:37:53.137Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "PlacesService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Places\\PlacesService.cs",
+              "RelativeDocumentMoniker": "LocationApp.Application\\Places\\PlacesService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Places\\PlacesService.cs",
+              "RelativeToolTip": "LocationApp.Application\\Places\\PlacesService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAlwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:33:16.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\Repository.cs",
               "RelativeDocumentMoniker": "LocationApp.Infrastructure.EntityFramework\\Repository.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\Repository.cs",
               "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\Repository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAlwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:19:16.855Z"
+              "WhenOpened": "2024-12-17T17:48:46.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure\\IRepository.cs",
-              "RelativeDocumentMoniker": "LocationApp.Infrastructure\\IRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure\\IRepository.cs",
-              "RelativeToolTip": "LocationApp.Infrastructure\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "DocumentIndex": 0,
+              "Title": "ServiceCollectionExtention.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Ioc\\ServiceCollectionExtention.cs",
+              "RelativeDocumentMoniker": "LocationApp.Application\\Ioc\\ServiceCollectionExtention.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Ioc\\ServiceCollectionExtention.cs",
+              "RelativeToolTip": "LocationApp.Application\\Ioc\\ServiceCollectionExtention.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:14:24.774Z"
+              "WhenOpened": "2024-12-17T17:22:08.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPlaceDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Places\\Dtos\\AddPlaceDto.cs",
+              "RelativeDocumentMoniker": "LocationApp.Application\\Places\\Dtos\\AddPlaceDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Places\\Dtos\\AddPlaceDto.cs",
+              "RelativeToolTip": "LocationApp.Application\\Places\\Dtos\\AddPlaceDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAArwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:35:13.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IPlaceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure\\Repositories\\IPlaceRepository.cs",
-              "RelativeDocumentMoniker": "LocationApp.Infrastructure\\Repositories\\IPlaceRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure\\Repositories\\IPlaceRepository.cs",
-              "RelativeToolTip": "LocationApp.Infrastructure\\Repositories\\IPlaceRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Title": "ServiceCollectionExtention.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\Ioc\\ServiceCollectionExtention.cs",
+              "RelativeDocumentMoniker": "LocationApp.Infrastructure.EntityFramework\\Ioc\\ServiceCollectionExtention.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\Ioc\\ServiceCollectionExtention.cs",
+              "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\Ioc\\ServiceCollectionExtention.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:13:45.495Z"
+              "WhenOpened": "2024-12-17T17:30:35.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "LocationAppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\LocationAppDbContext.cs",
               "RelativeDocumentMoniker": "LocationApp.Infrastructure.EntityFramework\\LocationAppDbContext.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\LocationAppDbContext.cs",
               "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\LocationAppDbContext.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T20:15:53.929Z"
+              "WhenOpened": "2024-12-17T17:32:08.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "PlaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\Repositories\\PlaceRepository.cs",
+              "RelativeDocumentMoniker": "LocationApp.Infrastructure.EntityFramework\\Repositories\\PlaceRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\Repositories\\PlaceRepository.cs",
+              "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\Repositories\\PlaceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:48:38.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Functional.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Shared\\Functional.cs",
+              "RelativeDocumentMoniker": "LocationApp.Shared\\Functional.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Shared\\Functional.cs",
+              "RelativeToolTip": "LocationApp.Shared\\Functional.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:15:55.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Shared\\Result.cs",
+              "RelativeDocumentMoniker": "LocationApp.Shared\\Result.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Shared\\Result.cs",
+              "RelativeToolTip": "LocationApp.Shared\\Result.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:04:18.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Place.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Domain\\Entities\\Place.cs",
               "RelativeDocumentMoniker": "LocationApp.Domain\\Entities\\Place.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Domain\\Entities\\Place.cs",
               "RelativeToolTip": "LocationApp.Domain\\Entities\\Place.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T20:09:33.807Z"
+              "WhenOpened": "2024-12-17T16:45:11.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EntityBase.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Domain\\Base\\EntityBase.cs",
-              "RelativeDocumentMoniker": "LocationApp.Domain\\Base\\EntityBase.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Domain\\Base\\EntityBase.cs",
-              "RelativeToolTip": "LocationApp.Domain\\Base\\EntityBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "DocumentIndex": 10,
+              "Title": "PlaceDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Places\\Dtos\\PlaceDto.cs",
+              "RelativeDocumentMoniker": "LocationApp.Application\\Places\\Dtos\\PlaceDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Places\\Dtos\\PlaceDto.cs",
+              "RelativeToolTip": "LocationApp.Application\\Places\\Dtos\\PlaceDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T20:07:48.726Z"
+              "WhenOpened": "2024-12-17T16:35:25.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20241216202617_places-entity.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\Migrations\\20241216202617_places-entity.cs",
-              "RelativeDocumentMoniker": "LocationApp.Infrastructure.EntityFramework\\Migrations\\20241216202617_places-entity.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\Migrations\\20241216202617_places-entity.cs",
-              "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\Migrations\\20241216202617_places-entity.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "DocumentIndex": 13,
+              "Title": "IPlacesService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Places\\IPlacesService.cs",
+              "RelativeDocumentMoniker": "LocationApp.Application\\Places\\IPlacesService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Places\\IPlacesService.cs",
+              "RelativeToolTip": "LocationApp.Application\\Places\\IPlacesService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwA0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T20:26:17.973Z"
+              "WhenOpened": "2024-12-17T16:32:42.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LocationApp.Infrastructure.EntityFramework.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj",
+              "RelativeDocumentMoniker": "LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj",
+              "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T15:58:40.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LocationApp.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj",
+              "RelativeToolTip": "LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T15:58:35.409Z",
+              "EditorCaption": ""
             }
           ]
         }

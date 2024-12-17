@@ -15,26 +15,27 @@ namespace LocationApp.Infrastructure.EntityFramework
         {
             _dbContext = dbContext;
         }
+
         public async Task<List<T>> GetAllListAsync()
         {
-            return await _dbSet.ToListAsync();
+            return await _dbContext.Set<T>().ToListAsync();
         }
 
         public async Task<T?> FindAsync(int id)
         {
-            return await _dbSet.FindAsync(id);
+            return await _dbContext.Set<T>().FindAsync(id);
 
         }
 
         public async Task InsertAsync(T entity)
         {
-            await _dbSet.AddAsync(entity);
+            await _dbContext.Set<T>().AddAsync(entity);
             await _dbContext.SaveChangesAsync();
         }
 
         public async Task UpdateAsync(T entity)
         {
-             _dbSet.Update(entity);
+            _dbContext.Set<T>().Update(entity);
             await _dbContext.SaveChangesAsync();
         }
     }

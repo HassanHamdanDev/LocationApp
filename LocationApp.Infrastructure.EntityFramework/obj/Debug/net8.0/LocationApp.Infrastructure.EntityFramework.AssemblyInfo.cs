@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocationApp.Infrastructure.EntityFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+668a0655ff2acbb1320f801068238cd03fa7e3da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8f4cbaa99bc54bf2d78d9cff90f0c5a69f073e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocationApp.Infrastructure.EntityFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocationApp.Infrastructure.EntityFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
