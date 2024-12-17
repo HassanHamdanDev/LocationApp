@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LocationApp.Domain\LocationApp.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

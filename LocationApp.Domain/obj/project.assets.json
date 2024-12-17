@@ -8,27 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "/home/hassan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Domain\\LocationApp.Domain.csproj",
+      "projectUniqueName": "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Domain/LocationApp.Domain.csproj",
       "projectName": "LocationApp.Domain",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Domain\\LocationApp.Domain.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Domain\\obj\\",
+      "projectPath": "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Domain/LocationApp.Domain.csproj",
+      "packagesPath": "/home/hassan/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/hassan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
