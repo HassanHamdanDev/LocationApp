@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Domain/LocationApp.Domain.csproj": {}
+    "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Domain\\LocationApp.Domain.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Domain/LocationApp.Domain.csproj": {
+    "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Domain\\LocationApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Domain/LocationApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Domain\\LocationApp.Domain.csproj",
         "projectName": "LocationApp.Domain",
-        "projectPath": "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Domain/LocationApp.Domain.csproj",
-        "packagesPath": "/home/hassan/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Domain/obj/",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Domain\\LocationApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/hassan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1608,29 +1608,6 @@
             "rid": "win"
           }
         }
-      },
-      "LocationApp.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/LocationApp.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LocationApp.Domain.dll": {}
-        }
-      },
-      "LocationApp.Infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "LocationApp.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/LocationApp.Infrastructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LocationApp.Infrastructure.dll": {}
-        }
       }
     }
   },
@@ -4747,22 +4724,10 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "LocationApp.Domain/1.0.0": {
-      "type": "project",
-      "path": "../LocationApp.Domain/LocationApp.Domain.csproj",
-      "msbuildProject": "../LocationApp.Domain/LocationApp.Domain.csproj"
-    },
-    "LocationApp.Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../LocationApp.Infrastructure/LocationApp.Infrastructure.csproj",
-      "msbuildProject": "../LocationApp.Infrastructure/LocationApp.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "LocationApp.Domain >= 1.0.0",
-      "LocationApp.Infrastructure >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0",
@@ -4770,37 +4735,33 @@
     ]
   },
   "packageFolders": {
-    "/home/hassan/.nuget/packages/": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Infrastructure.EntityFramework/LocationApp.Infrastructure.EntityFramework.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj",
       "projectName": "LocationApp.Infrastructure.EntityFramework",
-      "projectPath": "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Infrastructure.EntityFramework/LocationApp.Infrastructure.EntityFramework.csproj",
-      "packagesPath": "/home/hassan/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Infrastructure.EntityFramework/obj/",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Infrastructure.EntityFramework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/hassan/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Domain/LocationApp.Domain.csproj": {
-              "projectPath": "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Domain/LocationApp.Domain.csproj"
-            },
-            "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Infrastructure/LocationApp.Infrastructure.csproj": {
-              "projectPath": "/mnt/c/Users/hp/source/repos/LocationApp/LocationApp.Infrastructure/LocationApp.Infrastructure.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -4855,7 +4816,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
