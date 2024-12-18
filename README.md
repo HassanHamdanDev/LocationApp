@@ -16,6 +16,7 @@ Open the solution file LocationApp.sln .
 ***Set up the database:***
 
 Make The LocationApp.Infrastructure.EntityFramework the Startup Project
+
 Open the Package Manager Console (PMC) in Visual Studio and run:
 
 ```
