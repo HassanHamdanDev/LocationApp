@@ -54,7 +54,7 @@ npx react-native run-ios
 
 **API Endpoints**
 
-***1. POST /api/createRecord***
+***1. POST /api/places/createRecord***
 
 Description: Adds a new record with the user's full name and location.
 Request Body:
@@ -67,7 +67,7 @@ Request Body:
 }
 ```
 
-***2. GET /api/records***
+***2. GET /api/places/records***
 
 Description: Retrieves all records stored in the database.
 Response Example:
