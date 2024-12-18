@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\LocationApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.application\\ioc\\servicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|solutionrelative:locationapp.application\\ioc\\servicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E40ABF2-94A8-42BD-8B8D-B957297BEDFF}|Clients\\Backend\\LocationApp.API\\LocationApp.API.csproj|c:\\users\\hp\\source\\repos\\locationapp\\clients\\backend\\locationapp.api\\controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E40ABF2-94A8-42BD-8B8D-B957297BEDFF}|Clients\\Backend\\LocationApp.API\\LocationApp.API.csproj|solutionrelative:clients\\backend\\locationapp.api\\controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.application\\ioc\\servicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|solutionrelative:locationapp.application\\ioc\\servicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B903F9A-1F5E-4D47-9C1C-8FAFE3F486BD}|LocationApp.Application\\LocationApp.Application.csproj|c:\\users\\hp\\source\\repos\\locationapp\\locationapp.application\\places\\placesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,18 +106,17 @@
               "RelativeToolTip": "Clients\\Backend\\LocationApp.API\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:26:25.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T17:26:25.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlacesController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\Clients\\Backend\\LocationApp.API\\Controllers\\PlacesController.cs",
               "RelativeDocumentMoniker": "Clients\\Backend\\LocationApp.API\\Controllers\\PlacesController.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\Clients\\Backend\\LocationApp.API\\Controllers\\PlacesController.cs",
-              "RelativeToolTip": "Clients\\Backend\\LocationApp.API\\Controllers\\PlacesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAUAAAA",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LocationApp\\Clients\\Backend\\LocationApp.API\\Controllers\\PlacesController.cs*",
+              "RelativeToolTip": "Clients\\Backend\\LocationApp.API\\Controllers\\PlacesController.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T17:34:38.166Z",
               "EditorCaption": ""
@@ -132,8 +131,7 @@
               "RelativeToolTip": "LocationApp.Application\\Places\\Mappings\\PlacesMappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T16:37:53.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T16:37:53.137Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "LocationApp.Application\\Places\\PlacesService.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAlwBcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T16:33:16.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T16:33:16.144Z"
             },
             {
               "$type": "Document",
@@ -158,12 +155,11 @@
               "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\Repository.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAlwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:48:46.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T17:48:46.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ServiceCollectionExtention.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LocationApp\\LocationApp.Application\\Ioc\\ServiceCollectionExtention.cs",
               "RelativeDocumentMoniker": "LocationApp.Application\\Ioc\\ServiceCollectionExtention.cs",
@@ -184,8 +180,7 @@
               "RelativeToolTip": "LocationApp.Application\\Places\\Dtos\\AddPlaceDto.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAArwBcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T16:35:13.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T16:35:13.201Z"
             },
             {
               "$type": "Document",
@@ -197,8 +192,7 @@
               "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\Ioc\\ServiceCollectionExtention.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:30:35.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T17:30:35.787Z"
             },
             {
               "$type": "Document",
@@ -210,8 +204,7 @@
               "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\LocationAppDbContext.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:32:08.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T17:32:08.433Z"
             },
             {
               "$type": "Document",
@@ -223,8 +216,7 @@
               "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\Repositories\\PlaceRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:48:38.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T17:48:38.452Z"
             },
             {
               "$type": "Document",
@@ -236,8 +228,7 @@
               "RelativeToolTip": "LocationApp.Shared\\Functional.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAUwBUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:15:55.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T17:15:55.848Z"
             },
             {
               "$type": "Document",
@@ -249,8 +240,7 @@
               "RelativeToolTip": "LocationApp.Shared\\Result.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAswA0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:04:18.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T17:04:18.901Z"
             },
             {
               "$type": "Document",
@@ -262,8 +252,7 @@
               "RelativeToolTip": "LocationApp.Domain\\Entities\\Place.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAuwAkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T16:45:11.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T16:45:11.12Z"
             },
             {
               "$type": "Document",
@@ -275,8 +264,7 @@
               "RelativeToolTip": "LocationApp.Application\\Places\\Dtos\\PlaceDto.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T16:35:25.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T16:35:25.907Z"
             },
             {
               "$type": "Document",
@@ -288,8 +276,7 @@
               "RelativeToolTip": "LocationApp.Application\\Places\\IPlacesService.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAvwA0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T16:32:42.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T16:32:42.719Z"
             },
             {
               "$type": "Document",
@@ -301,8 +288,7 @@
               "RelativeToolTip": "LocationApp.Infrastructure.EntityFramework\\LocationApp.Infrastructure.EntityFramework.csproj",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-17T15:58:40.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T15:58:40.19Z"
             },
             {
               "$type": "Document",
@@ -314,8 +300,7 @@
               "RelativeToolTip": "LocationApp.Infrastructure\\LocationApp.Infrastructure.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-17T15:58:35.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T15:58:35.409Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocationApp.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8f4cbaa99bc54bf2d78d9cff90f0c5a69f073e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34deba6d5d563b6299cc9feed01e5a93eabba540")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocationApp.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocationApp.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

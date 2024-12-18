@@ -17,7 +17,7 @@ namespace LocationApp.API.Controllers
         }
 
         [HttpGet]
-        [Route("/")]
+        [Route("/records")]
         public async Task<IActionResult> GetPlacesAsync()
         {
             List<PlaceDto> places = await _placesService.GetPlacesAsync();
@@ -25,7 +25,7 @@ namespace LocationApp.API.Controllers
         }
 
         [HttpPost]
-        [Route("/")]
+        [Route("/createRecord")]
         public async Task<IActionResult> AddPlaceAsync(AddPlaceDto dto)
         {
             var result = await _placesService.AddPlaceAsync(dto);
